@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
-
 project(test)
+add_executable(test0 "equation.c")
 
-add_executable(${PROJECT_NAME} "main.cpp" "HelloWorld.cpp")
+link_libraries(m)
+add_executable(test1 "equation1.c")

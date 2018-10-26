@@ -32,3 +32,4 @@
 *.so
 /Date.cpp~
 /Prime.c~
+CMakeLists.txt.user
