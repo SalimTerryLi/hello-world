@@ -33,3 +33,5 @@
 /Date.cpp~
 /Prime.c~
 CMakeLists.txt.user
+*.json
+*.bin
